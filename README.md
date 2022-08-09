@@ -1,5 +1,4 @@
 # team-generator
-<<<<<<< HEAD
 
 Team Profile Generator
 Github licence
