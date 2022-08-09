@@ -1,5 +1,3 @@
-# team-generator
-
 Team Profile Generator
 Github licence
 
@@ -52,4 +50,3 @@ Run `npm test` to run Jest for tests on constructors.
 
 ## Questions
 If you have any questions about this projects, please contact me directly at joehenrickson@gmail.com. You can view more of my projects at https://github.com/joehenrickson
->>>>>>> e41a0dd1bc1a835ce7b8121a1632479116d084a4
